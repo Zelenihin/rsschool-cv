@@ -1,7 +1,9 @@
+#заголовок#
 1)Zelenihin Konstantin
-2)comp.kosta@mail.ru
-discord: Konstantin Zelenihin#2034
-whatsapp: 8-952-227-74-04
+2)contact:
+*comp.kosta@mail.ru
+*discord: Konstantin Zelenihin#2034
+*whatsapp: 8-952-227-74-04
 3)I made my own site by wordpress. One time i get 1 page seo for some request. I had to learn HTML and CSS for it. 
 4)PHP CSS основы
 5)Its my first step
