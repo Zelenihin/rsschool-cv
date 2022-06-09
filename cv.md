@@ -35,5 +35,5 @@ answer:
 
 
 7. 
-8. My level A2, but i can speak. I was in Austria, Serbia and Montenegro about 2 year. This time i had practise.
+8. My level A2, but i can speak. I was in Austria, Serbia and Montenegro about 2 year. This time i had practise..
 
